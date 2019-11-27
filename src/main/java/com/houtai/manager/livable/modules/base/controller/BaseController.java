@@ -7,7 +7,7 @@ import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.houtai.manager.base.entity.system.SysUser;
+import com.houtai.manager.entity.system.SysUser;
 import com.houtai.manager.livable.modules.base.mapper.SqlMapper;
 import com.houtai.manager.livable.utils.PageData;
 

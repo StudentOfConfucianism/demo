@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import com.alibaba.fastjson.JSONObject;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
-import com.houtai.manager.base.entity.system.SysPermission;
+import com.houtai.manager.entity.system.SysPermission;
 import com.houtai.manager.livable.modules.system.mapper.SysPermissionMapper;
 import com.houtai.manager.livable.modules.system.service.ISysPermissionService;
 import com.houtai.manager.livable.utils.LayuiPageUtil;

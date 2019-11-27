@@ -10,7 +10,6 @@ import org.springframework.stereotype.Component;
  * @author 抓娃小兵
  */
 @Component
-@PropertySource(value= "src/main/resources/uploadSetting.properties")
 public class UploadPathProperties {
 
 	@Value("${windows.upload.path}") 

@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.alibaba.fastjson.JSONObject;
-import com.houtai.manager.base.entity.system.SysPermission;
+import com.houtai.manager.entity.system.SysPermission;
 import com.houtai.manager.livable.configuration.annotation.LogAnnotation;
 import com.houtai.manager.livable.modules.base.controller.BaseController;
 import com.houtai.manager.livable.modules.system.service.ISysPermissionService;

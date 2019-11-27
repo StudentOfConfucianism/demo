@@ -1,4 +1,4 @@
-package com.houtai.manager.base.entity.system;
+package com.houtai.manager.entity.system;
 
 import java.util.Date;
 

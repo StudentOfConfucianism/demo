@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import com.alibaba.fastjson.JSONObject;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
-import com.houtai.manager.base.entity.system.SysUser;
+import com.houtai.manager.entity.system.SysUser;
 import com.houtai.manager.livable.modules.system.mapper.SysUserMapper;
 import com.houtai.manager.livable.modules.system.service.ISysUserService;
 import com.houtai.manager.livable.utils.LayuiPageUtil;

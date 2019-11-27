@@ -1,8 +1,8 @@
-package com.houtai.manager.base.entity.system;
+package com.houtai.manager.entity.system;
 
 import java.util.Date;
 
-import com.houtai.manager.base.entity.tree.TreeEntity;
+import com.houtai.manager.entity.tree.TreeEntity;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

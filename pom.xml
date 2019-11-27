@@ -10,7 +10,7 @@
 
     <packaging>war</packaging>
 
-    <name>sbDemo</name>
+    <name>demo</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
@@ -124,7 +124,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>sbDemo</finalName>
+        <finalName>demo</finalName>
     </build>
 
 </project>

@@ -1,6 +1,6 @@
 package com.houtai.manager.livable.modules.system.service;
 
-import com.houtai.manager.base.entity.system.SysUser;
+import com.houtai.manager.entity.system.SysUser;
 import com.houtai.manager.livable.modules.base.service.IBaseService;
 
 public interface ISysUserService extends IBaseService {

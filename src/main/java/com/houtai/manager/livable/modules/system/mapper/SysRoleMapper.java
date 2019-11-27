@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Options;
 import org.apache.ibatis.annotations.Select;
 import org.apache.ibatis.annotations.SelectProvider;
 
-import com.houtai.manager.base.entity.system.SysRole;
+import com.houtai.manager.entity.system.SysRole;
 import com.houtai.manager.livable.modules.base.mapper.SqlMapper;
 import com.houtai.manager.livable.utils.PageData;
 

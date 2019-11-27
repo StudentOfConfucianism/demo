@@ -1,4 +1,4 @@
-package com.houtai.manager.base.entity.tree;
+package com.houtai.manager.entity.tree;
 
 import java.util.ArrayList;
 import java.util.List;

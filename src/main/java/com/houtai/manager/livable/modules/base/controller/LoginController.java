@@ -13,8 +13,8 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.houtai.manager.base.entity.system.SysPermission;
-import com.houtai.manager.base.entity.system.SysUser;
+import com.houtai.manager.entity.system.SysPermission;
+import com.houtai.manager.entity.system.SysUser;
 import com.houtai.manager.livable.configuration.annotation.LogAnnotation;
 import com.houtai.manager.livable.configuration.constant.TitleConstant;
 import com.houtai.manager.livable.modules.system.service.ISysPermissionService;

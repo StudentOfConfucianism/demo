@@ -11,7 +11,7 @@ import org.apache.ibatis.annotations.SelectProvider;
 import org.apache.ibatis.annotations.Update;
 import org.apache.ibatis.annotations.UpdateProvider;
 
-import com.houtai.manager.base.entity.system.SysUser;
+import com.houtai.manager.entity.system.SysUser;
 import com.houtai.manager.livable.modules.base.mapper.SqlMapper;
 import com.houtai.manager.livable.utils.PageData;
 
