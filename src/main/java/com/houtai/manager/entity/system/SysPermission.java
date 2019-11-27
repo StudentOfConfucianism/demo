@@ -1,19 +1,14 @@
 package com.houtai.manager.entity.system;
 
-import java.util.Date;
-
 import com.houtai.manager.entity.tree.TreeEntity;
 
-import lombok.Data;
-import lombok.EqualsAndHashCode;
+import java.util.Date;
 
 /**
  * 系统权限
  * 
  * @author 抓娃小兵
  */
-@EqualsAndHashCode(callSuper = true)
-@Data
 public class SysPermission extends TreeEntity<SysPermission> {
 
 	private Integer permId;

@@ -2,14 +2,11 @@ package com.houtai.manager.entity.system;
 
 import java.util.Date;
 
-import lombok.Data;
-
 /**
  * 系统角色
  * 
  * @author 抓娃小兵
  */
-@Data
 public class SysRole {
 
 	private Integer roleId;

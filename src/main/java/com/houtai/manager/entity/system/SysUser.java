@@ -1,13 +1,10 @@
 package com.houtai.manager.entity.system;
 
-import lombok.Data;
-
 /**
  * 系统用户
  * 
  * @author 抓娃小兵
  */
-@Data
 public class SysUser {
 
 	private Integer id;
